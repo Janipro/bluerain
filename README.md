@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Gutta Mod - Minecraft modden for gutta
 
 ## Setup
 
