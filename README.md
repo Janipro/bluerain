@@ -2,7 +2,8 @@
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Welcome to my first Minecraft Mod. This is currently being developed :-).
+Setup is coming
 
 ## License
 
