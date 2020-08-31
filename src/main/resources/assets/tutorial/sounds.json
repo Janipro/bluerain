@@ -3,5 +3,10 @@
     "sounds": [
       "tutorial:kp"
     ]
+  },
+  "steroid_sound": {
+    "sounds": [
+      "tutorial:steroid_sound"
+    ]
   }
 }
