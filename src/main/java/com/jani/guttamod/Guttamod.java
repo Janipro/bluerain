@@ -1,5 +1,5 @@
 package com.jani.guttamod;
-import com.jani.guttamod.registry.ModItems;
+import com.jani.guttamod.registry.Mod;
 import net.fabricmc.api.ModInitializer;
 
 public class Guttamod implements ModInitializer {
@@ -8,6 +8,6 @@ public class Guttamod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ModItems.registerItems();
+        Mod.registerItems();
     }
 }
