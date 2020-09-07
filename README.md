@@ -1,9 +1,9 @@
-# Gutta Mod - Minecraft modden for gutta
+# Blue Rain - My first Minecraft Mod
 
 ## Setup
 
-Welcome to my first Minecraft Mod. This is currently being developed :-).
-Setup is coming
+Welcome to my first Minecraft Mod. This is currently being developed as a project for the boys.
+This mod will feature custom mobs, enchantments and even a couple of items. For installation see next page.
 
 ## License
 
