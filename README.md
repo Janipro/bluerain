@@ -8,3 +8,6 @@ This mod will feature custom mobs, enchantments and even a couple of items. For 
 ## License
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+## Credit
+This mod is being developed un unity with @Magnus2142
