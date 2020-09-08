@@ -10,4 +10,5 @@ This mod will feature custom mobs, enchantments and even a couple of items. For 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 
 ## Credit
+[#i1]
 This mod is being developed un unity with [i1]: https://github.com/Magnus2142
