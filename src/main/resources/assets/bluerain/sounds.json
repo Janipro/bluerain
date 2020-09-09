@@ -1,12 +1,12 @@
 {
   "kp": {
     "sounds": [
-      "tutorial:kp"
+      "bluerain:kp"
     ]
   },
   "steroid_sound": {
     "sounds": [
-      "tutorial:steroid_sound"
+      "bluerain:steroid_sound"
     ]
   }
 }

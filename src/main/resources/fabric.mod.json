@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "tutorial",
+  "id": "bluerain",
   "version": "${version}",
 
-  "name": "Guttamod",
-  "description": "First mod I'm making for the boys",
+  "name": "BlueRain",
+  "description": "A Minecraft Mod made in terrible weathers",
   "authors": [
     "Jani"
   ],
   "contact": {
     "homepage": "",
-    "sources": "https://github.com/Janipro/guttamod"
+    "sources": "https://github.com/Janipro/bluerain"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/tutorial/icon.png",
+  "icon": "assets/bluerain/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.jani.guttamod.Guttamod"
+      "com.jani.bluerain.BlueRain"
     ]
   },
   "mixins": [
