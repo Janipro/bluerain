@@ -12,3 +12,6 @@ This template is available under the CC0 license. Feel free to learn from it and
 ## Credit
 
 This mod is being developed in collaboration with my friend and roomate https://github.com/Magnus2142
+
+## Api
+Blue Rain is made with the Fabric Mod API. See more here: https://fabricmc.net/wiki/start
