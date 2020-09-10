@@ -13,4 +13,5 @@ public class SteroidItem extends Item{
     public SoundEvent getEatSound() {
         return Mod.STEROID_EVENT;
     }
+
 }

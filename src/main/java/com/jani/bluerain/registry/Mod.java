@@ -20,10 +20,10 @@ public class Mod {
     public static SoundEvent STEROID_EVENT = new SoundEvent(STEROID_SOUND);
     public static final KpItem KP_MIXTAPE = new KpItem(new Item.Settings().group(ItemGroup.MISC));
     public static final Item RUBY = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
-    public static final Item HARAMBE = new Item(new Item.Settings().group(ItemGroup.COMBAT));
     public static final SteroidItem STEROID = new SteroidItem(new SteroidItem.Settings()
                                                     .group(ItemGroup.FOOD)
                                                     .rarity(Rarity.EPIC)
+                                                    .maxCount(64)
                                                     .food(new FoodComponent.Builder()
                                                             .hunger(2)
                                                             .alwaysEdible()
@@ -38,7 +38,6 @@ public class Mod {
 
     public static void registerItems(){
         Registry.register(Registry.ITEM, new Identifier(BlueRain.MOD_ID, "ruby"), RUBY);
-        Registry.register(Registry.ITEM, new Identifier(BlueRain.MOD_ID, "harambe"), HARAMBE);
         Registry.register(Registry.ITEM, new Identifier(BlueRain.MOD_ID, "kp_mixtape"), KP_MIXTAPE);
         Registry.register(Registry.ITEM, new Identifier(BlueRain.MOD_ID, "steroid"), STEROID);
         Registry.register(Registry.SOUND_EVENT, Mod.KP, KP_EVENT);
