@@ -16,11 +16,11 @@ The code being published here is meant for testing and implementation. Feel free
 - **src/main/resources/assets/bluerain/models/textures** item textures
 
 ## Installation
-Blue Rain is made with the Fabric Mod API. <br/>
-Run `java -jar fabric-installer.jar client -dir "~/Games/.minecraft"` <br/>
+**Blue Rain** is made with the **Fabric Mod API.** <br/>
+To install, run `java -jar fabric-installer.jar client -dir "~/Games/.minecraft"` <br/>
 **-dir** should specify the directory where you want to install Fabric.
 
-See more here: [Fabric Wiki](https://fabricmc.net/wiki/start)
+See more here: [Fabric Wiki](https://fabricmc.net/wiki/install)
 
 ## Credit
 
